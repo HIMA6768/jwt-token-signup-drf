@@ -22,9 +22,7 @@ This project implements a basic JWT-based authentication system using Django and
 
 ---
 
-## ▶️ Setup Instructions
 
-1. Clone this repository  
-```bash
-git clone <repo-url>
-cd <project-folder>
+![workflow diagram](https://github.com/user-attachments/assets/c8248355-2a3d-47cd-bde7-c7a916086d7e)
+
+
