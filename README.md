@@ -22,7 +22,9 @@ This project implements a basic JWT-based authentication system using Django and
 
 ---
 
-
-![workflow diagram](https://github.com/user-attachments/assets/c8248355-2a3d-47cd-bde7-c7a916086d7e)
-
+## ⚙ workflow diagram
+<img src="https://github.com/user-attachments/assets/c8248355-2a3d-47cd-bde7-c7a916086d7e" 
+     alt="workflow diagram" 
+     width="600" 
+     height="400"/>
 
